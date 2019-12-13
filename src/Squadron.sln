@@ -46,6 +46,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compose", "Compose\Compose.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compose.Tests", "Compose.Tests\Compose.Tests.csproj", "{B31AAAEE-5995-4780-B961-79F82AE3358F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnit_Mongo.Tests", "NUnit_Mongo.Tests\NUnit_Mongo.Tests.csproj", "{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -308,6 +310,18 @@ Global
 		{B31AAAEE-5995-4780-B961-79F82AE3358F}.Release|x64.Build.0 = Release|Any CPU
 		{B31AAAEE-5995-4780-B961-79F82AE3358F}.Release|x86.ActiveCfg = Release|Any CPU
 		{B31AAAEE-5995-4780-B961-79F82AE3358F}.Release|x86.Build.0 = Release|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Debug|x64.Build.0 = Debug|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Debug|x86.Build.0 = Debug|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Release|x64.ActiveCfg = Release|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Release|x64.Build.0 = Release|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Release|x86.ActiveCfg = Release|Any CPU
+		{D94254CA-5CA9-4FD0-AEA9-7031669A0CFA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
